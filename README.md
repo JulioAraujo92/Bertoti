@@ -54,3 +54,6 @@
 
 ![Imagem Classe UML](https://github.com/JulioAraujo92/Bertoti/blob/main/Classe_UML.jpg)
 
+## **UML**
+![Imagem UML](https://github.com/JulioAraujo92/Bertoti/blob/main/UML.jpg)
+
